@@ -1,1 +1,1 @@
-# repository untuk CHALLENGE
+# repository untuk GOLD CHALLENGE
